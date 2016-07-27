@@ -1,2 +1,3 @@
 # hello-world
-For a tutorial.
+
+Making some progress. Obama would be proud.
